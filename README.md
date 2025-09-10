@@ -30,7 +30,7 @@ Win and game-over animations on LEDs & LCD
 
 Simple restart option by pressing the red button
 
-📂 Repository Structure Arduino-Simon-Memory-Game/ │── Simon_Memory_Game.ino # Main Arduino code │── README.md # Project documentation │── images/ # Circuit diagrams / demo pics (optional)
+
 
 ▶️ How to Play
 
@@ -46,15 +46,10 @@ If correct → you advance to the next level.
 
 If wrong → LCD shows “Game Over” and LEDs flash.
 
-Survive all 50 levels to win 🎉
+Survive all 20 levels to win 🎉
 
-📸 Demo
-
-(Insert images or GIFs of your game in action here)
 
 🔧 Circuit Diagram
-
-(Optional: Add a Fritzing diagram or wiring schematic)
 
 LEDs → Pins 8, 9, 10, 11
 
